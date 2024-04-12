@@ -1,0 +1,6 @@
+com/hkdemircan/demo/controller/UserController.class
+com/hkdemircan/demo/model/User.class
+com/hkdemircan/demo/DemoApplication.class
+com/hkdemircan/demo/service/UserService.class
+com/hkdemircan/demo/repository/UserRepository.class
+com/hkdemircan/demo/service/UserServiceImpl.class
